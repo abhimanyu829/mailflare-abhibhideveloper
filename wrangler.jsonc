@@ -16,11 +16,11 @@
 		"binding": "IMAGES",
 	},
 	"services": [
-		{
-			"binding": "WORKER_SELF_REFERENCE",
-			"service": "mailflare",
-		},
-	],
+  {
+    "binding": "WORKER_SELF_REFERENCE",
+    "service": "mailflare-abhibhideveloper"
+  }
+  ]
 	"durable_objects": {
 		"bindings": [
 			{
